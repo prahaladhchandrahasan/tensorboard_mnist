@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "Test_Embedding:0"
+  metadata_path: "/home/pchasan/Dataset1/labels_1024.tsv"
+  sprite {
+    image_path: "/home/pchasan/Dataset1/sprite_1024.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
